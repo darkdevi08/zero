@@ -1,3 +1,8 @@
 hello there im here to follow you in my instagram
+<<<<<<< HEAD
 im edditing this for new settings
 this is the third time im trying to send the committed the 
+=======
+im edditing this for new settings so niw lets see 
+hat to do or else lets see what to do
+>>>>>>> 0a699f4 (commiting b repo)
